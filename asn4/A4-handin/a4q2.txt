@@ -1,0 +1,34 @@
+1.
+Filename                         Avg. Queries for hashQuestLog           Avg. Queries for treeQuestLog
+quests4.csv                            1.25                                                               2.0
+quests16.csv                         1.125                                                              4.0
+quests250.csv                        1.232                                                            13.34
+quests1000.csv                      2.148                                                            18.08
+quests100000.csv                  1.45367                                                       30.8778
+
+
+2.
+I think it is O(1)
+
+3.
+I think it is O(logn)
+4.
+I will choose hashed quest log. Once we sort all the names in the order we want, it 
+is efficient to display all the details using the key to find the corresponding quest. 
+5.
+I prefer tree quest log.
+I think using tree quest log is more memory efficient. Even though it is more time 
+consuming than the hash table but since we only need to access them periodically.
+
+
+
+
+
+
+
+
+
+
+
+
+
