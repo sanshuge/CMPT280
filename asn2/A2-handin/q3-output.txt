@@ -1,0 +1,41 @@
+
+/**
+ name: Ruobing Fu
+ NSID: xdt709
+ student number: 11319234
+ course number:CMPT-280-02
+ */
+
+
+Skill tree: 
+
+1: A mature vampire, Cost: 10
+     2: Illusion generation, Cost: 3
+          3: Speed, Cost: 3
+          3: Weather control, Cost: 4
+          3: - 
+     2: Vertigo, Cost: 9
+          3: Precognition, Cost: 19
+               4: Phobikinesis, Cost: 10
+               4: - 
+               4: - 
+          3: - 
+          3: - 
+     2: Cryokinesis, Cost: 12
+          3: Pain illusion, Cost: 21
+          3: - 
+          3: - 
+     2: Electrical Control, Cost: 15
+          3: Sensory Deprivation, Cost: 3
+          3: Mental shield, Cost: 6
+          3: - 
+Shield Bash is not found
+Tactile Telepathy is not found
+prerequisites skills for Electrical Control
+A mature vampire, Cost: 10, Electrical Control, Cost: 15, 
+Total cost for Electrical Control is 25
+prerequisites skills for Illusion generation
+A mature vampire, Cost: 10, Illusion generation, Cost: 3, 
+Total cost for Illusion generation is 13
+
+Process finished with exit code 0
